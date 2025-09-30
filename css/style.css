@@ -403,6 +403,7 @@ button {
   padding: 1.5rem 0 1rem 0;
   text-align: center;
   overflow: hidden;
+  width: 350px;
 }
 .trick__img {
   width: 90px;
