@@ -114,7 +114,7 @@ button {
 }
 /* LAYOUT */
 .container {
-  max-width: 968px;
+  max-width: 1350px;
   margin-left: var(--mb-1-5);
   margin-right: var(--mb-1-5);
 }
